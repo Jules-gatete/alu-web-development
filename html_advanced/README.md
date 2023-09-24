@@ -15,8 +15,8 @@ the steps followed To get started  :
 5. Begin implementing the HTML structure following the design specifications.  
 6. Ensure to use the specified fonts or appropriate alternatives if they are not available on your computer.  
 7. Round any floating values as instructed in the designer file.  
-8. Test the webpage structure for accuracy, ensuring it matches the provided design.  
-
+8. Test the webpage structure for accuracy, ensuring it matches the provided design.
+  
 
 
 Mandatory requirements:  
@@ -35,3 +35,8 @@ reference resources:
                       (https://learn.shayhowe.com/html-css/)
 - [Figma Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+
+  
+The project Final Image sample:
+
+ ![The project Image sample](https://github.com/Jules-gatete/alu-web-development/blob/main/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?raw=true)
