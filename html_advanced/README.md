@@ -37,4 +37,4 @@ reference resources:
 
   
 
- ![The project Image sample](https://github.com/Jules-gatete/alu-web-development/blob/main/214020630-738bc53c-a165-4c25-9faf-bb230d5ae43a.png?raw=true)
+ ![The project Image sample]([https://github.com/Jules-gatete/alu-web-development/blob/main/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?raw=true)
