@@ -1,5 +1,6 @@
-  ohead>
-cription
+# Project Title: HTML Semantic Webpage Implementation with CSS Styling
+
+## Description
 In this project, the goal is to implement a webpage using HTML semantic structure and CSS styling based on a designer file. The project builds upon the HTML structure created in the previous "HTML, advanced" project and focuses on adding CSS styles to enhance the visual presentation of the webpage. The designer file can be accessed through the following links:
 
 - [Page in Figma](https://www.figma.com/file/dyYL6Ku4WG7vsdpwvlcJZC/Homepage)
