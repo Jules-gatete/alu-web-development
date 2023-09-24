@@ -35,6 +35,8 @@ reference resources:
                       (https://learn.shayhowe.com/html-css/)
 - [Figma Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+
   
+The project Final Image sample:
 
  ![The project Image sample]([https://github.com/Jules-gatete/alu-web-development/blob/main/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?raw=true)
