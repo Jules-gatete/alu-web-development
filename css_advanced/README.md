@@ -38,4 +38,4 @@ The code for this project is available in the following repository:
 Please refer to the repository for the project files and additional resources.
 
 ## FINAL PAGE OVERVIEW
-
+![The project Image sample](https://github.com/Jules-gatete/alu-web-development/blob/main/html_advanced/IMAGES_ALU/snip.jpg?raw=true)
