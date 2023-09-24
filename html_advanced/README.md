@@ -39,4 +39,4 @@ reference resources:
   
 The project Final Image sample:
 
- ![The project Image sample](https://github.com/Jules-gatete/alu-web-development/blob/main/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?raw=true)
+ ![The project Image sample](https://github.com/Jules-gatete/alu-web-development/blob/main/html_advanced/IMAGES_ALU/snip.jpg?raw=true)
